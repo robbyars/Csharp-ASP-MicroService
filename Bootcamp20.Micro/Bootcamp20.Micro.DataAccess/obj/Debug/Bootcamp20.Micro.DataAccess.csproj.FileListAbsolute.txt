@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\bin\Debug\Bootcamp20.Micro.DataAccess.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\bin\Debug\Bootcamp20.Micro.DataAccess.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\bin\Debug\Bootcamp20.Micro.DataAccess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\bin\Debug\Bootcamp20.Micro.Core.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\bin\Debug\Bootcamp20.Micro.Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\obj\Debug\Bootcamp20.Micro.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\obj\Debug\Bootcamp20.Micro.DataAccess.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\obj\Debug\Bootcamp20.Micro.DataAccess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\obj\Debug\Bootcamp20.Micro.DataAccess.Migrations.addingModelSupplier.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\obj\Debug\Bootcamp20.Micro.DataAccess.csproj.GenerateResource.Cache

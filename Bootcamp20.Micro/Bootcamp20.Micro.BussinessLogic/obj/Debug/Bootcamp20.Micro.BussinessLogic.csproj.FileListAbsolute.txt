@@ -1,0 +1,16 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.BussinessLogic\bin\Debug\Bootcamp20.Micro.BussinessLogic.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.BussinessLogic\bin\Debug\Bootcamp20.Micro.BussinessLogic.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.BussinessLogic\bin\Debug\Bootcamp20.Micro.BussinessLogic.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.BussinessLogic\bin\Debug\Bootcamp20.Micro.Common.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.BussinessLogic\bin\Debug\Bootcamp20.Micro.Core.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.BussinessLogic\bin\Debug\Bootcamp20.Micro.DataAccess.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.BussinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.BussinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.BussinessLogic\bin\Debug\Bootcamp20.Micro.Common.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.BussinessLogic\bin\Debug\Bootcamp20.Micro.Core.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.BussinessLogic\bin\Debug\Bootcamp20.Micro.DataAccess.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.BussinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.BussinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.BussinessLogic\obj\Debug\Bootcamp20.Micro.BussinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.BussinessLogic\obj\Debug\Bootcamp20.Micro.BussinessLogic.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.BussinessLogic\obj\Debug\Bootcamp20.Micro.BussinessLogic.pdb
